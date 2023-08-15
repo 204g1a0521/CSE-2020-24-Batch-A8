@@ -2,3 +2,13 @@
 The main objective of our project is to build a cutting-edge web-based platform that dumb and deaf people from all around the globe may utilize. The translation of 
 nonverbal cues and sign language into text and audio is done using modern machine learning techniques. Because of how easy it is to use, anyone can easily use the 
 platform. 
+#Problem Statement
+1.Communication is important for every human being in daily life. However, people who have a hearing and speech disability need a different way to communicate with 
+normal people. 
+2.They use signs to communicate with each other and with others which is not understood by a lot of  people. To solve this, a machine learning model is be created. 
+This model would be trained to recognize numerous sign language gestures and translate them into text and audio. This technology makes it possible to converse with 
+those who are deaf and mute.
+#Objectives
+1.To create a web based application which converts non verbal signals to text and audio.
+2.To provide user friendly environment web application where people can communicate at ease.                                           
+

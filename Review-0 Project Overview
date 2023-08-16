@@ -18,3 +18,8 @@ Due to the limitations of the sensors we are compelled to create a project using
 #Literature Survey of Second Objective
 The input is enhanced and pre-processed using OpenCV, which is also utilized to present the detection model’s results in real-time.[3]
 Conversing the non-verbal language makes easier and more comfort for the normal people to share their ideas and thoughts.[4]
+#Proposed System
+In the proposed system, images are captured using a webcam in the website and sent to the algorithm.
+This captured image is processed which outputs and displays that image in the website with a bounding box around the detected palm area.
+The proposed system is scalable and user friendly.
+

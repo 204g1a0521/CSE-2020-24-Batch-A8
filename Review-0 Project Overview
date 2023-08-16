@@ -11,4 +11,10 @@ those who are deaf and mute.
 #Objectives
 1.To create a web based application which converts non verbal signals to text and audio.
 2.To provide user friendly environment web application where people can communicate at ease.                                           
-
+#Literature Survey of First Objective
+Generally, communication between impaired people and normal people is done through synthesized speech known as sign language.[1]
+In this system, images are captured through a webcam in the website and send to the back-end then gives output in the form of text and audio.[2]
+Due to the limitations of the sensors we are compelled to create a project using a website.[4]
+#Literature Survey of Second Objective
+The input is enhanced and pre-processed using OpenCV, which is also utilized to present the detection model’s results in real-time.[3]
+Conversing the non-verbal language makes easier and more comfort for the normal people to share their ideas and thoughts.[4]
